@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/aitan/Documents/NetBeansProjects/MoneyCalculator/src/control/CalculateCommand.java</file>
+            <file>file:/C:/Users/aitan/Documents/NetBeansProjects/MoneyCalculator/src/control/Command.java</file>
+            <file>file:/C:/Users/aitan/Documents/NetBeansProjects/MoneyCalculator/src/persistence/rest/RestExchangeRateLoader.java</file>
+            <file>file:/C:/Users/aitan/Documents/NetBeansProjects/MoneyCalculator/src/model/ExchangeRate.java</file>
+            <file>file:/C:/Users/aitan/Documents/NetBeansProjects/MoneyCalculator/src/model/Currency.java</file>
+            <file>file:/C:/Users/aitan/Documents/NetBeansProjects/MoneyCalculator/src/persistence/CurrencyListLoader.java</file>
+            <file>file:/C:/Users/aitan/Documents/NetBeansProjects/MoneyCalculator/src/MoneyCalculator/Main.java</file>
+            <file>file:/C:/Users/aitan/Documents/NetBeansProjects/MoneyCalculator/src/persistence/files/FilesCurrencyListLoader.java</file>
+            <file>file:/C:/Users/aitan/Documents/NetBeansProjects/MoneyCalculator/src/MoneyCalculator/MainFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
